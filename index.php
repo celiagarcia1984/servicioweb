@@ -1,3 +1,3 @@
-<?php
-
-    phpinfo();
+<html>
+    <h1>HOLA MUNDO</h1>
+</html>
